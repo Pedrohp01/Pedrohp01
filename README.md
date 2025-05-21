@@ -36,9 +36,9 @@ Futuro Técnico em Informática 💻 e desenvolvedor em evolução.
 
 ### 🎓 Formação
 - 📚 Cursando Técnico em Informática
-- 🚀 Java Completo - Udemy (2024)
-- 🔒 Segurança Web com PHP - Alura (2023)
-
+- ☕ Cursando Java Completo - DIO(2025)
+- 🔷  C# Completo com orientação à objetos- Udemy(2024-2025)
+- 🚀 Java POO - Curso em Video (2025)
 ---
 
 ### 🚀 Em aprendizado constante
