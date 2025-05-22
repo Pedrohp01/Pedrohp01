@@ -10,7 +10,7 @@ Futuro Técnico em Informática 💻 e desenvolvedor em evolução.
 
 ---
 
-### 🧠 Tecnologias que domino
+### 🧠 Tecnologias que utilizo
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
