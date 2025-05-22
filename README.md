@@ -33,12 +33,12 @@ Futuro Técnico em Informática 💻 e desenvolvedor em evolução.
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 ---
-
 ### 🎓 Formação
-- 📚 Cursando Técnico em Informática
-- ☕ Cursando Java Completo - DIO(2025)
-- 🔷  C# Completo com orientação à objetos- Udemy(2024-2025)
-- 🚀 Java POO - Curso em Video (2025)
+- 📚 Cursando Técnico em Informática - Escola e Faculdade Fortec(2023 - 2025)
+- ☕ Cursando Java Completo - DIO (2025)
+- 🔷  C# Completo com Orientação a Objetos - Udemy (2024-2025)
+- 🚀 Java POO - Curso em Vídeo(2025)
+
 ---
 
 ### 🚀 Em aprendizado constante
@@ -76,4 +76,4 @@ Futuro Técnico em Informática 💻 e desenvolvedor em evolução.
 
 ---
 
-### ✨ Obrigado por visitar o meu perfil!
+### ⭐ Obrigado por visitar o meu perfil!
