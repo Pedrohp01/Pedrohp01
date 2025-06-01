@@ -59,8 +59,8 @@ Futuro Técnico em Informática 💻 e desenvolvedor em evolução.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=60"/>
 </p>
 
 ---
