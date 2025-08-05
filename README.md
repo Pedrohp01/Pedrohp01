@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramando&psig=AOvVaw2_-xXi-UFDf0HK66r-a7eQ&ust=1754485938855000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCir-bf844DFQAAAAAdAAAAABAE)" width="300" alt="coding gif" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="coding gif" />
 </p>
 
 ---
