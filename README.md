@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+  <img src="https://github.com/ritik307/ritik307/blob/main/images/code.gif?raw=true" width="300" alt="coding gif" />
 </p>
 
 ---
@@ -76,10 +76,17 @@ Meu foco está no back-end, com destaque para desenvolvimento em Java utilizando
 
 ---
 
+## 📅 Minhas contribuições
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrohp01&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 🤝 Vamos nos conectar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-8939842ab)  
-📧 Email: **_adicione_seu_email_aqui_**
 
 ---
 
