@@ -74,7 +74,6 @@ Meu foco está no back-end, com destaque para desenvolvimento em Java utilizando
 </div>
 
 ---
-
 ## 📅 Minhas contribuições
 
 <div align="center">
@@ -84,6 +83,7 @@ Meu foco está no back-end, com destaque para desenvolvimento em Java utilizando
 </div>
 
 ---
+
 
 ## 🤝 Vamos nos conectar
 
