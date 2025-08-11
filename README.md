@@ -78,7 +78,9 @@ Meu foco está no back-end, com destaque para desenvolvimento em Java utilizando
 ## 📅 Minhas contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrohp01&theme=tokyonight" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedrohp01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
