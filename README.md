@@ -5,35 +5,32 @@
   🚀 Focado em Back-end com Java & Spring Boot | APIs RESTful | Banco de Dados
 </p>
 
-<p align="center">
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
 
 Sou um desenvolvedor em constante aprendizado, atualmente cursando Técnico em Informática. Tenho paixão por resolver problemas com código e construir soluções que realmente fazem a diferença.
 
-Meu foco está no back-end, com destaque para desenvolvimento em Java utilizando Spring Boot. Também me interesso por banco de dados, boas práticas de código e arquitetura de aplicações.
+Meu foco está no back-end, com destaque para desenvolvimento em **Java** utilizando **Spring Boot**. Também me interesso por banco de dados, boas práticas de código e arquitetura de aplicações.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-
+  
 ### ⚙️ Linguagens & Banco de Dados
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
+  
 ### 🌐 Front-end
 
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
+  
 ### 🧰 Frameworks & IDEs
 
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
@@ -46,49 +43,47 @@ Meu foco está no back-end, com destaque para desenvolvimento em Java utilizando
 
 ---
 
-## 📚 Formação Acadêmica & Cursos
+## 📚 Formação & Cursos
 
-- 🎓 Técnico em Informática – Escola e Faculdade Fortec (2023 - 2025)  
-- ☕ Java Completo – Udemy / Cod3r (2025)  
-- 🔷 C# com Orientação a Objetos – Udemy (2024 - 2025)  
-- 🚀 Java POO – Curso em Vídeo (2025)  
+- 🎓 Técnico em Informática – Escola e Faculdade Fortec (2023 - 2025)
+- ☕ Java Completo – Udemy / Cod3r (2025)
+- 🔷 C# com Orientação a Objetos – Udemy (2024 - 2025)
+- 🚀 Java POO – Curso em Vídeo (2025)
 
 ---
 
 ## 📈 Em aprendizado contínuo
 
-- Desenvolvimento com Spring Boot  
-- Criação de APIs RESTful  
-- Modelagem e otimização de banco de dados  
-- Arquitetura em camadas e boas práticas com Java  
-- Design patterns e princípios SOLID  
-- Versionamento com Git
+- Desenvolvimento com **Spring Boot**
+- Criação de **APIs RESTful**
+- Modelagem e otimização de banco de dados
+- Arquitetura em camadas e boas práticas com **Java**
+- Design patterns e princípios SOLID
+- Versionamento com **Git**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro Henrique" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Pedro Henrique" />
 </div>
 
 ---
+
 ## 📅 Minhas contribuições
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedrohp01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=pedrohp01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
 
-
 ## 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-8939842ab)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dev/)
 
 ---
 
-> ✨ *“A persistência é o caminho do êxito.” – Charlie Chaplin*
+> ✨ *"A persistência é o caminho do êxito." – Charlie Chaplin*
