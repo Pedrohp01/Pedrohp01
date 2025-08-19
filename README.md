@@ -82,7 +82,7 @@ Meu foco está no back-end, com destaque para desenvolvimento em **Java** utiliz
 
 ## 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-8939842ab//)
 
 ---
 
