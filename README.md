@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor Back-end em formação <br>
-🚀 Java | Spring Boot | APIs REST | Banco de Dados
+🚀 Java | Spring Boot| C# | APIs REST | Banco de Dados
 </p>
 
 ---
@@ -12,7 +12,7 @@
 Sou desenvolvedor em formação, apaixonado por tecnologia e por resolver problemas através do código.  
 Tenho formação técnica em Informática e atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**.
 
-Minha principal stack é **Java com Spring Boot**, onde estudo e desenvolvo aplicações com **APIs REST**, integração com **banco de dados** e aplicação de **boas práticas de desenvolvimento e arquitetura de software**.
+Minha principal stack é **Java com Spring Boot e C#**,  onde estudo e desenvolvo aplicações com **APIs REST**, integração com **banco de dados** e aplicação de **boas práticas de desenvolvimento e arquitetura de software**.
 
 Busco constantemente evoluir como desenvolvedor, criando projetos práticos e aprofundando meus conhecimentos em tecnologias utilizadas no mercado.
 
@@ -32,7 +32,6 @@ Busco constantemente evoluir como desenvolvedor, criando projetos práticos e ap
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧰 Frameworks & Ferramentas
 
@@ -40,7 +39,6 @@ Busco constantemente evoluir como desenvolvedor, criando projetos práticos e ap
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
