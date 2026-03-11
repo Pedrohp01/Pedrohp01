@@ -1,89 +1,101 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
 
 <p align="center">
-  💻 Técnico em Informática em formação <br/>
-  🚀 Focado em Back-end com Java & Spring Boot | APIs RESTful | Banco de Dados
+💻 Desenvolvedor Back-end em formação <br>
+🚀 Java | Spring Boot | APIs REST | Banco de Dados
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em constante aprendizado, atualmente cursando Técnico em Informática. Tenho paixão por resolver problemas com código e construir soluções que realmente fazem a diferença.
+Sou desenvolvedor em formação, apaixonado por tecnologia e por resolver problemas através do código.  
+Tenho formação técnica em Informática e atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**.
 
-Meu foco está no back-end, com destaque para desenvolvimento em **Java** utilizando **Spring Boot**. Também me interesso por banco de dados, boas práticas de código e arquitetura de aplicações.
+Minha principal stack é **Java com Spring Boot**, onde estudo e desenvolvo aplicações com **APIs REST**, integração com **banco de dados** e aplicação de **boas práticas de desenvolvimento e arquitetura de software**.
+
+Busco constantemente evoluir como desenvolvedor, criando projetos práticos e aprofundando meus conhecimentos em tecnologias utilizadas no mercado.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  
+
 ### ⚙️ Linguagens & Banco de Dados
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### 🌐 Front-end
 
-[![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-  
-### 🧰 Frameworks & IDEs
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/)
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
+### 🧰 Frameworks & Ferramentas
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Formação & Cursos
+## 🎓 Formação & Cursos
 
-- 🎓 Técnico em Informática – Escola e Faculdade Fortec (2023 - 2025)
-- ☕ Java Completo – Udemy / Cod3r (2025)
-- 🔷 C# com Orientação a Objetos – Udemy (2024 - 2025)
-- 🚀 Java POO – Curso em Vídeo (2025)
+- 🎓 **Técnico em Informática** — Escola e Faculdade Fortec (2023 - 2025)  
+- 🎓 **Análise e Desenvolvimento de Sistemas** — Fatec (em andamento)
+
+### Cursos complementares
+
+- ☕ **Java Completo – Programação Orientada a Objetos + Projetos** — Udemy / Cod3r  
+- 🔷 **C# com Programação Orientada a Objetos** — Udemy  
+- 🚀 **Java POO** — Curso em Vídeo  
 
 ---
 
-## 📈 Em aprendizado contínuo
+## 📚 Atualmente estudando
 
-- Desenvolvimento com **Spring Boot**
+- Desenvolvimento de aplicações com **Spring Boot**
 - Criação de **APIs RESTful**
-- Modelagem e otimização de banco de dados
-- Arquitetura em camadas e boas práticas com **Java**
-- Design patterns e princípios SOLID
-- Versionamento com **Git**
+- **Arquitetura em camadas**
+- **Design Patterns e princípios SOLID**
+- **Modelagem de banco de dados**
+- **Versionamento com Git e GitHub**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro Henrique" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Pedro Henrique" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedrohp01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohp01&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
 
-## 📅 Minhas contribuições
+## 📅 Contribuições
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pedrohp01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pedrohp01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
 ## 🤝 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-8939842ab//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-8939842ab/)
 
 ---
 
-> ✨ *"A persistência é o caminho do êxito." – Charlie Chaplin*
+⭐ *Sempre aprendendo, construindo projetos e evoluindo como desenvolvedor.*
